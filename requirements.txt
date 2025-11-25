@@ -1,0 +1,41 @@
+# AI Agents Capstone Project - Meal Planning & Shopping Assistant
+# Core dependencies
+google-generativeai>=0.3.0
+google-ai-generativelanguage>=0.4.0
+google-cloud-aiplatform>=1.38.0
+
+# Agent Development Kit (if available)
+# Note: Install ADK from official Google sources
+
+# Web scraping and search
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+googlesearch-python>=1.2.3
+
+# Recipe and nutrition APIs
+spoonacular-api>=1.0.0  # For recipe data (alternative: use free tier)
+
+# Data handling
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Session and state management
+pydantic>=2.5.0
+
+# Observability
+opentelemetry-api>=1.21.0
+opentelemetry-sdk>=1.21.0
+opentelemetry-exporter-jaeger>=1.21.0
+
+# Utilities
+python-dotenv>=1.0.0
+typing-extensions>=4.8.0
+json5>=0.9.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# UI
+streamlit>=1.28.0
+
