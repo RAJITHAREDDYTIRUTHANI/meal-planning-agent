@@ -373,7 +373,8 @@ MIT License
 
 ## 👥 Authors
 
-[Your name/team name]
+Thiruthani Sarath Kumar Reddy
+Tituthani Rajitha Reddy 
 
 ## 🙏 Acknowledgments
 
